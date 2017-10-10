@@ -1,2 +1,3 @@
 # Basic-Portfolio
-My Portfolio From Scratch
+Practicing responsive design! 
+Testing responsive design at 980px, 768px, and 640px.
